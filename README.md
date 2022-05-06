@@ -43,7 +43,11 @@ DATABASE_URL=postgresql://postgres:your_password@localhost:5432/pg_routing_ferry
 
 ### Environment Creation
 
-Run the following commands in a terminal: ` conda env create -f environment.yml conda activate ferry conda activate ferry`
+Run the following commands in a terminal:
+
+` conda env create -f environment.yml'
+
+'conda env create -f environment.yml'
 
 ### Primary Analysis
 
