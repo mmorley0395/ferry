@@ -45,10 +45,10 @@ DATABASE_URL=postgresql://postgres:your_password@localhost:5432/pg_routing_ferry
 
 Run the following commands in a terminal:
 
-` conda env create -f environment.yml'
+` conda env create -f environment.yml`
 
-'conda env create -f environment.yml'
+`conda env create -f environment.yml`
 
 ### Primary Analysis
 
-Run `python osmnx_isochrones.py'. This uses 15 and 30 minutes as the default isochrones but change those values as you see fit in the file.
+Run `python osmnx_isochrones.py`. This uses 15 and 30 minutes as the default isochrones but change those values as you see fit in the file.
