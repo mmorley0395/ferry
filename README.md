@@ -47,7 +47,7 @@ Run the following commands in a terminal:
 
 ` conda env create -f environment.yml`
 
-`conda env create -f environment.yml`
+`conda activate ferry`
 
 ### Primary Analysis
 
