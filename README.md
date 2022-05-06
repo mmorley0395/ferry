@@ -41,7 +41,7 @@ DATABASE_URL=postgresql://postgres:your_password@localhost:5432/pg_routing_ferry
 
 ## Isochrone Analysis
 
-### Environment Creation
+### Environment Creation and Activation
 
 Run the following commands in a terminal:
 
