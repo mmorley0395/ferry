@@ -13,7 +13,7 @@ This repo is still under development. Right now it can
 ## Prerequisites
 
 - Conda installed on your system (to install the included .yml file)
-- Postgres with the PostGIS extension installed on your DB of choice
+- Postgres with the PostGIS extension and PGrouting installed on your DB of choice
 - A Google API Key and a developer account (only necessary if you intend to use the distance_direction or google_lat_lon scripts)
 - A configured .env file. See example below and plug in with your credentials.
 
